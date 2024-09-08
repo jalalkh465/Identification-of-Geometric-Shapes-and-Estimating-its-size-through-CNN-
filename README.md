@@ -15,12 +15,6 @@ Epochs: 30
 Performance
 Accuracy: 100% on validation set
 Loss: Minimal
-# Files
-ttrained_model.h5: Trained model
-Getting Started
 
 # Clone the Repository:
 git clone https://github.com/yourusername/your-repository.git
-#Install Dependencies:
-pip install tensorflow opencv-python-headless numpy pandas matplotlib plotly
-Run the Model: Follow the scripts to preprocess data, train the model, and visualize results.
