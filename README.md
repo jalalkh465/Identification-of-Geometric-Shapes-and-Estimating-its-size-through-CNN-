@@ -16,5 +16,3 @@ Performance
 Accuracy: 100% on validation set
 Loss: Minimal
 
-# Clone the Repository:
-git clone https://github.com/yourusername/your-repository.git
